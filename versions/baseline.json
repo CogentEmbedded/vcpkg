@@ -1,7 +1,7 @@
 {
   "default": {
     "nng": {
-      "baseline": "1.5.2-ce",
+      "baseline": "1.11.12-ce",
       "port-version": 0
     }
   }
